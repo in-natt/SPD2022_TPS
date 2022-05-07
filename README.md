@@ -9,13 +9,8 @@
 
 ## Team: Los Peces del Infierno
 
-<p align="left"><a href="https://i.ibb.co/BrCCwQ8"><img src="https://i.ibb.co/BrCCwQ8/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0" style="max-width: 40%;"></p>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mXdcgZB/peces-del-infierno.jpg" alt="peces_del_infierno" border="2" style="max-width: 20%;"></a>
 
-<p align="center"><a href="https://i.ibb.co/cCrrxZz"><img src="https://i.ibb.co/cCrrxZz/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0" style="max-width: 40%;"></a></p>
-
-<a href="https://ibb.co/HxHHXbm"><img src="https://i.ibb.co/HxHHXbm/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0"></a>
-
----
 ### Integrantes:
 * Barrozo, Matias - [@mbarrozo10](https://github.com/mbarrozo10)
 * Escudero, Morena - [@moreescudero](https://github.com/moreescudero)
