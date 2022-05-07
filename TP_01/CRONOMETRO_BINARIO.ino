@@ -1,4 +1,3 @@
-
 /*
  *	Trabajo Práctico 1: Cronómetro Binario
  *
@@ -78,8 +77,8 @@ void setup()
 }
 
 /**
- * @brief Calls function to convert int numbers to binary.
- * @note We use this function to avoid use WHILE & FOR.
+ * @brief Calls function to convert int numbers to their binary
+ * @note We use this function to avoid use WHILE & FOR
  *
  * @param array
  * @param ultimoNum
@@ -99,8 +98,8 @@ void decimal_Binario(int array[], int ultimoNum)
 }
 
 /**
- * @brief This print message in the console.
- * @note Seconds numbers & their Binary.
+ * @brief This print a message in the console
+ * @note Seconds numbers & their Binary
  *
  */
 void imprimirCadena()
@@ -117,7 +116,7 @@ void imprimirCadena()
 }
 
 /**
- * @brief Function to turn on the leds.
+ * @brief Function to turn on the leds
  *
  */
 void secuencia()
@@ -138,8 +137,8 @@ void secuencia()
 }
 
 /**
- * @brief
- *
+ * @brief Configuration for Start button
+ * @note Press to Start, and press to Pause
  */
 void boton_Start()
 {
@@ -162,8 +161,8 @@ void boton_Start()
 }
 
 /**
- * @brief
- *
+ * @brief Configuration for Reset button
+ * @note Press to restart the counter at 0 Zero
  */
 void boton_Reset()
 {
@@ -179,7 +178,7 @@ void boton_Reset()
 }
 
 /**
- * @brief
+ * @brief Function to calculate int numbers into binaries
  *
  * @param array
  * @param ultimoNum
@@ -196,7 +195,7 @@ int calculo_Binario(int array[], int ultimoNum)
 }
 
 /**
- * @brief
+ * @brief Function to turn off leds
  *
  */
 void apagar_Led()
@@ -207,6 +206,10 @@ void apagar_Led()
   }
 }
 
+/**
+ * @brief Arduino loop Function
+ *
+ */
 void loop()
 {
   cont = contador;
