@@ -8,7 +8,12 @@
 ---
 
 ## Team: Los Peces del Infierno
-<p align="left"><img alt="Hellfish_logo" src="https://i.ibb.co/BrCCwQ8/image-2022-05-07-001133974.png" border="2" style="max-width: 40%;"></p>
+
+<p align="left"><a href="https://i.ibb.co/BrCCwQ8"><img src="https://i.ibb.co/BrCCwQ8/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0" style="max-width: 40%;"></p>
+
+<p align="center"><a href="https://i.ibb.co/cCrrxZz"><img src="https://i.ibb.co/cCrrxZz/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0" style="max-width: 40%;"></a></p>
+
+<a href="https://ibb.co/HxHHXbm"><img src="https://i.ibb.co/HxHHXbm/image-2022-05-07-001133974.png" alt="image-2022-05-07-001133974" border="0"></a>
 
 ---
 ### Integrantes:
